@@ -3,6 +3,8 @@ This is a winning project at HackTJ 2020.
 
 Excess road salt laid in response to snowstorms contaminates drinking water over the EPA’s advisory standard. This web application addresses this issue by predicting the amount of road salt needed before a snowstorm occurs. In essence, we trained a Decision Tree Regressor and used the model to predict road salt amounts for future snowstorms. The main technologies used are scikit-learn, TensorFlow, Express, JavaScript, HTML, and CSS. 
 
+View a demo [here](https://youtu.be/QzOW8mNWQmM).
+
 
 
 ## Inspiration
