@@ -1,3 +1,10 @@
+## Overview
+This is a winning project at HackTJ 2020. 
+
+Excess road salt laid in response to snowstorms contaminates drinking water over the EPA’s advisory standard. This web application addresses this issue by predicting the amount of road salt needed before a snowstorm occurs. In essence, we trained a Decision Tree Regressor and used the model to predict road salt amounts for future snowstorms. The main technologies used are scikit-learn, TensorFlow, Express, JavaScript, HTML, and CSS. 
+
+
+
 ## Inspiration
 Applying an excess amount of road salt during snowstorms can easily contaminate drinking water supplies. [Recent research] (https://www.bloomberg.com/news/articles/2015-03-12/this-winter-s-road-salt-has-already-led-to-salty-drinking-water-parts-of-new-jersey) has found that repeated onslaught of snow and ice has left an abundance of salt residue, enough to push drinking water supplies well over the EPA’s advisory standard—enough to produce a noticeably salty taste in some regions. A geologist, at the University of Maryland, warns against the negative, cumulative effects of salt application in the Washington D.C. area. Along with other scientists in the local area, he expresses concern for increasing salinity in drinking water and the subsequent decaying [biodiversity] (https://www.vox.com/2015/1/13/7531833/road-salt-environment-alternatives?fbclid=IwAR0cX2gKhC_1Jaiq2efEOayzxLOQJ_d3lYoDBzozmcM0yzUNUFVUkhVrkOo). Our project combats this issue by accurately predicting the amount of road salt needed before the snowstorm. This prevents an excessive amount of road salt from being applied to roads, saving resources and combating the issue of water contamination. 
 
